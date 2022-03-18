@@ -1,5 +1,5 @@
-<title>Meu post</title>
-
+layout: post
+title: post
 
 Ola me chamo Pedro Henrique Goncalves Mattos, sou estudante e desenvolvedor web, atualmente curso desenvolvimento front-end no SENAI RJ e tecnologias educacionais na universidade estacio.
 
