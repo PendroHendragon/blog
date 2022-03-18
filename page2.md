@@ -1,3 +1,1 @@
----
-title: "Meu post"
----
+<title>Meu post</title>
